@@ -3,6 +3,7 @@
 * Robotic Systems
 * Embedded Systems
 * Machine Learning
+* Things and stuff
 
 ## Technical Background:
 * [Link to Technical Background](/Technical_Background.md)
